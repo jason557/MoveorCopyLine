@@ -1,0 +1,11 @@
+C:\VS\CS\move_or_copy_a_line\move_or_copy_a_line\bin\Debug\move_or_copy_a_line.exe.config
+C:\VS\CS\move_or_copy_a_line\move_or_copy_a_line\bin\Debug\move_or_copy_a_line.exe
+C:\VS\CS\move_or_copy_a_line\move_or_copy_a_line\bin\Debug\move_or_copy_a_line.pdb
+C:\VS\CS\move_or_copy_a_line\move_or_copy_a_line\obj\Debug\move_or_copy_a_line.csproj.AssemblyReference.cache
+C:\VS\CS\move_or_copy_a_line\move_or_copy_a_line\obj\Debug\move_or_copy_a_line.csproj.SuggestedBindingRedirects.cache
+C:\VS\CS\move_or_copy_a_line\move_or_copy_a_line\obj\Debug\move_or_copy_a_line.Form1.resources
+C:\VS\CS\move_or_copy_a_line\move_or_copy_a_line\obj\Debug\move_or_copy_a_line.Properties.Resources.resources
+C:\VS\CS\move_or_copy_a_line\move_or_copy_a_line\obj\Debug\move_or_copy_a_line.csproj.GenerateResource.cache
+C:\VS\CS\move_or_copy_a_line\move_or_copy_a_line\obj\Debug\move_or_copy_a_line.csproj.CoreCompileInputs.cache
+C:\VS\CS\move_or_copy_a_line\move_or_copy_a_line\obj\Debug\move_or_copy_a_line.exe
+C:\VS\CS\move_or_copy_a_line\move_or_copy_a_line\obj\Debug\move_or_copy_a_line.pdb
